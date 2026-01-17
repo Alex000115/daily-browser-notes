@@ -1,0 +1,5 @@
+Ideas
+
+- Learn more HTML
+- Learn more CSS
+- Practice JavaScript
